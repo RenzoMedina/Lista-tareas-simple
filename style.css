@@ -65,8 +65,14 @@
     border-radius: 10px;
 }
 .cardTask{
-    font-size: 1.3rem;
+    font-size: 1.1rem;
     margin-right: 70px;
     text-align: center;
     margin-top: 5px;
+}
+.card-body pre{
+    text-align: center;
+    margin-top: 10px;
+    margin-right: 40px;
+    color: rgb(78, 78, 78);
 }
