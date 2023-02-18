@@ -52,4 +52,21 @@
 }
 .card-footer{
     margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.btnDelete{
+    height: 20px;
+    width: 20px;
+    margin-left: 8px;
+    border: none;
+    background: rgb(199, 4, 4);
+    color:#fff;
+    border-radius: 10px;
+}
+.cardTask{
+    font-size: 1.3rem;
+    margin-right: 70px;
+    text-align: center;
+    margin-top: 5px;
 }
